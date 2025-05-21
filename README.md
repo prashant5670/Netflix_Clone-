@@ -1,1 +1,1 @@
-Hosting Link -friendly-eclair-40529c.netlify.app
+Hosting Link: https://netlifyyy-clone.netlify.app/
